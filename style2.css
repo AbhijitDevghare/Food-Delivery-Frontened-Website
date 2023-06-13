@@ -1,0 +1,94 @@
+@media only screen and (max-width:1000px) {
+
+    #navbar
+{
+    flex-direction: column;
+}
+
+
+.home
+{
+    font-size: 20px;
+    
+}
+
+
+
+
+
+.home h1{
+  
+    text-align: center;
+    font-size: 40px;
+}
+
+.home h4{
+   
+   
+    font-size: 25px;
+   
+}
+
+
+/* 
+//Service section */
+
+
+
+.service-section h1{
+    
+    font-size: 30px;
+}
+
+.three-container
+{
+   
+    flex-direction: column;
+    column-gap: 50px;
+}
+
+
+.box
+{   
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 3px 3px white;
+    width: 400px;
+    height: 250px;
+}
+
+
+
+/* Our client section */
+
+
+.Our-Clients img{
+    border-radius: 50px;
+    height: 150px;
+    width: 90%;
+}
+
+
+
+
+
+
+
+label
+{
+    font-size: 18px;
+    font-weight: 600;
+
+}
+
+
+input{
+    width: 400px;
+    height: 30px;
+
+}
+
+
+
+    
+}
